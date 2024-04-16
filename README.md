@@ -13,6 +13,7 @@ Projeto construído durante o curso PROPROFISSÃO do Instituto PROA
 ## Tecnologias
 - HTML
 - CSS
+- JavaScript
 - Github
 
 - ## Contato
